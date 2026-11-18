@@ -16,3 +16,6 @@ Entry for [make.fun](https://make.fun) competition [news-image-20261118](https:/
 ```
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+## How the image was made
+I sketched the front page as a single editorial spread with three zones: the lead stories up top, a numbered world map in the middle to tie every story to a place, and a 21-story briefing column running down the side. The layout was tuned at 1024x1024 so nothing gets cropped by the competition's fixed canvas. After the final export I checked the file size and shaved the palette until the PNG landed well under the 1 MiB entry limit.
